@@ -79,10 +79,3 @@ optional arguments:
 * Stock Market Agent:
 <p align="center">
 <img src="https://github.com/crypto-code/Stock-Market/blob/master/assets/Agent.png" align="middle" />  </p>
-
-
-
-# G00D LUCK
-
-For doubts email me at:
-atinsaki@gmail.com
